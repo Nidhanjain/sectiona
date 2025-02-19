@@ -31,8 +31,8 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
+  "Java dev",
+  "Da Vinci Resolve",
   "Inclusive design",
   "Focus group testing",
   "Mobile user interfaces",
@@ -53,7 +53,7 @@ const About = () => {
       <img className="background" src={image} alt={imageAltText} />
       <div
         style={{
-          backgroundColor: "white",
+          backgroundColor: "black",
           width: "50%",
           padding: "4rem",
           margin: "3rem auto",
