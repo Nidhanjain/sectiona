@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://Nidhanjain.github.io/sectiona",
+  "homepage": "https://Nidhanjain.comsectiona",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://Nidhanjain.github.io/sectiona'",
+    "build-gh": "parcel build --public-url 'https://Nidhanjain.com/sectiona'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
