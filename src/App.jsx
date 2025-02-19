@@ -27,7 +27,7 @@ const siteProps = {
   name: "Nidhan Jain",
   title: "Freshman at BIT Jaipur",
   email: "nidhanjain1406@gmail.com",
-  gitHub: "microsoft",
+  gitHub: "Nidhanjain",
   instagram: "nidhan_jain14",
   linkedIn: "Nidhan Jain",
   medium: "",
